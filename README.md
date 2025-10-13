@@ -3,17 +3,12 @@
 Welcome to my portfolio! This repository contains multiple projects in Excel.
 
 ---
-## 🧠 Author
-**Uche Nelson**  
-📧 uchenelson9010@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/uche-chukwuemeka-nelson/)  
-🌐 [Portfolio](https://datascienceportfol.io/UcheNelson)
 
 ## 📊 Project 1: Sales Performance Dashboard
 **Tool:** Excel  
-**Description:** Analyzed Coca-Cola dealer sales trends across regions.  
-**Files:** [SalesDashboard.pbix](./SalesDashboard.pbix)  
-**Highlights:** Identified top-selling SKUs and optimized dealer distribution strategy.  
+**Description:** Analyzed Sales Performance trends across regions.  
+**Files:** [SalesPerformance.xlsx](./SalesPerformance.xlsx)  
+**Highlights:** Identified top-selling SKUs and optimized Sales distribution strategy.  
 **Preview:** (insert screenshot here)
 
 ---
@@ -33,3 +28,11 @@ Welcome to my portfolio! This repository contains multiple projects in Excel.
 **Files:** [FinancialReport.pbix](./FinancialReport.pbix)  
 **Highlights:** Visualized operating margin, revenue trends, and expense breakdowns.  
 **Preview:** (insert screenshot here)
+
+---
+
+## 🧠 Author
+**Uche Nelson**  
+📧 uchenelson9010@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/uche-chukwuemeka-nelson/)  
+🌐 [Portfolio](https://datascienceportfol.io/UcheNelson)
