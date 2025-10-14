@@ -108,9 +108,9 @@ The dashboard empowers AoA LinK’s leadership to:
 
 | File | Description |
 |------|-------------|
-| `AoALink.xlsx` | Excel dashboard with Power Pivot model |
-| `AoA_Dashboard.png` | Dashboard preview |
-| `AoA_Model.png` | Power Pivot data model |
+| [`AoALink.xlsx`](./AoALink.xlsx) | Excel dashboard with Power Pivot model |
+| [`AoA_Dashboard.png`](./AoA_Dashboard.png) | Dashboard preview |
+| [`AoA_Model.png`](./AoA_Model.png) | Power Pivot data model |
 
 ---
 
