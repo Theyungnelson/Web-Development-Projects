@@ -9,7 +9,20 @@ Welcome to my portfolio! This repository contains multiple projects in Excel.
 **Description:** Analyzed Sales Performance trends across regions.  
 **Files:** [SalesPerformance.xlsx](./SalesPerformance.xlsx)  
 **Highlights:** Identified top-selling SKUs and optimized Sales distribution strategy.  
-**Preview:** (insert screenshot here)
+## 📸 Dashboard Previews
+
+### 1️⃣ Overview Dashboard
+![Sales Overview Dashboard](./Project_Preview/Sales_Performance_Dashboard.png)
+*Shows the EXCEL sales performance dashboard visualizing revenue trends, category sales, regional performance, and city ratings.*
+
+### 2️⃣ Dashboard Preview
+![Performance Dashboard](./Project_Preview/Sales_Performance_Dashboard2.png)
+*Highlights the EXCEL sales performance dashboard showcasing revenue growth, category insights, regional comparisons, and city performance ratings.*
+
+### 3️⃣ Data Model
+![Data Model](./Project_Preview/Sales_Performance_Model.png)
+*Displays the EXCEL data model linking sales, year, and region tables for relational analysis.*
+
 
 ---
 
