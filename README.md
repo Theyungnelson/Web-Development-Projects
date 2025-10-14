@@ -22,7 +22,7 @@ Each project reflects my approach to solving problems with data — from cleanin
 |----------|------|-------------|------|
 | **Sales Performance Dashboard** | EXCEL | Visualized sales trends across regions, categories, and years to identify growth opportunities. | [View Project](./Assets/Sales_Performance_Dashboard/README.md) |
 | **AoA LinK Sales Performance Dashboard ** | Excel | Displays AoA LinK’s sales and profitability performance across multiple years, regions, and product categories. | [View Project](./Visuals/AoALink/README.md) |
-| **Financial KPI Tracker** | Excel | Automated performance tracking for revenue, profit, and ROI insights. | [View Project](./Financial_KPI_Tracker/README.md) |
+| **Business Insight Dashboard** | Excel | Enables stakeholders to monitor KPIs and uncover operational inefficiencies. | [View Project](./Business_Insight_Dashboard/README.md) |
 | **Marketing Campaign Insights** | Power BI | Assessed campaign engagement and conversion data to optimize marketing ROI. | [View Project](./Marketing_Campaign_Insights/README.md) |
 
 ---
