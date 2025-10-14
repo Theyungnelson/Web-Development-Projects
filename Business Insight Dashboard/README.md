@@ -115,7 +115,7 @@ This dashboard enables the business to:
 |------|-------------|
 | [`BusinessInsight.xlsx`](./BusinessInsight.xlsx) | Excel dashboard with Power Pivot model |
 | [`Business_Insight_Dashboard.png`](./Images/Business_Insight_Dashboard.png) | Dashboard preview |
-| [`BusinessInsight_Model.png`](./Images/BusinessInsight_Model.png) | Power Pivot data model screenshot |
+| [`BusinessInsight_Model.png`](./Images/Business_Insight_Model.png) | Power Pivot data model screenshot |
 
 ---
 
